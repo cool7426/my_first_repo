@@ -1,0 +1,1 @@
+print("Hello world, The Time is 2022年中秋节！")
